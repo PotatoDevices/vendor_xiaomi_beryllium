@@ -107,6 +107,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/beryllium/proprietary/lib/vendor.qti.hardware.iop@2.0.so:system/lib/vendor.qti.hardware.iop@2.0.so \
     vendor/xiaomi/beryllium/proprietary/lib/vendor.qti.hardware.perf@1.0.so:system/lib/vendor.qti.hardware.perf@1.0.so \
     vendor/xiaomi/beryllium/proprietary/lib/vendor.qti.imsrtpservice@1.0.so:system/lib/vendor.qti.imsrtpservice@1.0.so \
+    vendor/xiaomi/beryllium/proprietary/lib/vndk-27/vendor.qti.hardware.iop@2.0.so:system/lib/vndk-27/vendor.qti.hardware.iop@2.0.so \
     vendor/xiaomi/beryllium/proprietary/lib/xlog_client.so:system/lib/xlog_client.so \
     vendor/xiaomi/beryllium/proprietary/lib64/com.qualcomm.qti.ant@1.0.so:system/lib64/com.qualcomm.qti.ant@1.0.so \
     vendor/xiaomi/beryllium/proprietary/lib64/com.qualcomm.qti.dpm.api@1.0.so:system/lib64/com.qualcomm.qti.dpm.api@1.0.so \
@@ -176,6 +177,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/beryllium/proprietary/lib64/vendor.qti.hardware.iop@2.0.so:system/lib64/vendor.qti.hardware.iop@2.0.so \
     vendor/xiaomi/beryllium/proprietary/lib64/vendor.qti.hardware.perf@1.0.so:system/lib64/vendor.qti.hardware.perf@1.0.so \
     vendor/xiaomi/beryllium/proprietary/lib64/vendor.qti.imsrtpservice@1.0.so:system/lib64/vendor.qti.imsrtpservice@1.0.so \
+    vendor/xiaomi/beryllium/proprietary/lib64/vndk-27/vendor.qti.hardware.iop@2.0.so:system/lib64/vndk-27/vendor.qti.hardware.iop@2.0.so \
     vendor/xiaomi/beryllium/proprietary/lib64/xlog_client.so:system/lib64/xlog_client.so
 
 PRODUCT_PACKAGES += \
