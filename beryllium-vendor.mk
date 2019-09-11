@@ -386,3 +386,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/xiaomi/beryllium
